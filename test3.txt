@@ -1,0 +1,1 @@
+practising to add file in local and reflecting in remote repository that is git as we did in test2.txt
